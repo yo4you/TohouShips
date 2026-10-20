@@ -1,0 +1,194 @@
+You, -6
+Hisami, 19
+Zanmu, 19
+Original, -6
+Reimu,4
+Marisa,4
+Yukari, 7
+Sakuya,4
+Alice Margatroid, -5
+Remilia Scarlet, 6
+Patchouli Knowledge, 6
+Eirin, 8
+Sanae,4
+Mokou, 8
+Kaguya, 8
+Flandre Scarlet, 6
+Reisen Udongein Inaba,4
+Aya, 9
+Meiling, 6
+Yuyuko, 7
+Cirno, 6
+Youmu,4
+Satori, 11
+Maribel Hearn, -1
+Keine, 8
+Ran, 7
+Renko, -1
+Byakuren, 12
+Koishi, 11
+Kanako, 10
+Yuuka, -5
+Suika, -1
+Koakuma, 6
+Suwako, 10
+Tewi, 8
+Utsuho, 11
+Mima, -5
+Kasen, -1
+Mystia Lorelei, 8
+Toyosatomimi no Miko, 13
+Rin, 11
+Tenshi, -1
+Seija, 14
+Kogasa, 12
+Junko, 15
+Sumireko, -1
+Nitori, 10
+Rumia, 6
+Komachi, 9
+Akyuu, -1
+Rinnosuke, -1
+Okina, 16
+Megumu, 18
+Hecatia, 15
+Daiyousei, 6
+Yuugi, 11
+Kosuzu, -1
+Chen, 7
+Hatate, -1
+Mononobe no Futo, 13
+Eiki, 9
+Mamizou, 13
+Wriggle Nightbug, 8
+Shinmyoumaru, 14
+Nue, 12
+Momiji, 10
+Seiga, 13
+Yorihime, -1
+Clownpiece, 15
+Aunn, 16
+Ichirin, 12
+Minamitsu, 12
+Shou, 12
+Toyohime, -1
+Doremy Sweet, 15
+Kagerou, 14
+Sekibanki, 14
+Kyouko, 13
+Shinki, -5
+Parsee, 11
+Hata no Kokoro, -1
+Yoshika, 13
+Nazrin, 12
+Momoyo, 18
+Chimata, 18
+Soga no Tojiko, 13
+Shion, -1
+Wakasagihime, 14
+Tsukasa, 18
+Sagume, 15
+Luna Child, -1
+Sunny Milk, -1
+Yachie, 17
+Raiko, 14 
+Joon, -1
+Yamame, 11
+Yumeko, -5
+Hina, 10
+Meira, -5
+Letty Whiterock, 7
+Shizuha, 10
+Iku, -1
+Satsuki, -1
+Seiran, 15
+Saki, 17
+Shanghai, -1
+Keiki, 17
+Lyrica, 7
+Minoriko, 10
+Merlin, 7
+Lunasa, 7
+Medicine Melancholy, 9
+Elly, -5
+Yumemi, -5
+Kotohime, -5
+Yuuma, -1
+Ringo, 15
+Star Sapphire, -1
+Narumi, 16
+Genjii, -5
+Sannyo, 18
+Satono, 16
+Miyoi, -1
+Teireida, 16
+Kutaka, 17
+Konngara, -5
+Hourai, -1
+Mayumi, 17
+Kisume, 11
+Sariel, -5
+Misumaru, 18
+Yatsuhashi, 14
+Alice Margatroid's Dolls, -1
+Ruukoto, -5
+Yamashiro Takane, 18
+Lily White, 7
+Mizuchi, -1
+Rika, -5
+Benben, 14
+Rikako, -5
+Eternity Larva, 16
+Kitashirakawa Chiyuri, -5
+Youki, -1
+Unzan, 12
+Kurumi, -5
+Nemuno, 16
+Alice Margatroid, -5
+Elis, -5
+Fairy Maids, -1
+Yuki, -5
+Gengetsu, -5
+Louise, -5
+Mai, -5
+Sara, -5
+Ushizaki Urumi, 16
+YuugenMagan, -5
+Goutokuji Mike, 18
+Kabutozukamori Kikyou, -1
+Kikuri, -5
+SinGyoku, -5
+Tokiko, -1
+Chang'e, -1
+Ellen, -5
+Kana Anaberal, -1
+Ebisu Eika, 16
+Mugetsu, -5
+Layla, -1
+Magahara Mitama, -1
+Matenshi, -1
+Noroiko, -1
+Orange, -5
+Lord Tsukuyomi, -1
+Nameless Jinyou/Fortune Teller, -1
+Suitokuin Tenmu, -1
+Tenma, -1
+Fairies, -1
+Hikariko | Rengeteki | Koushi, -1
+Magatsuji Hatsuna, -1
+Otter Spirit, 17
+Evil Eye Sigma, -5
+Goliath Doll, -1
+Touhou Project Ensemble, -1
+Dolls in Pseudo Paradise Label Girl, -1
+Iesua Nazarenus, -1
+Iwakasa, -1
+Mimi-chan, -5
+Hobgoblin, -1
+Hungry Villager, -1
+Sokrates, -5
+Su-san, -1
+Suiki, -1
+Takatou Tobiko, -1
+Yatagarasu, -1
+Zombie Fairy, -1
