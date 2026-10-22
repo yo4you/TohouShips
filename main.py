@@ -218,8 +218,8 @@ icons = {
 "hatate":"https://tiermaker.com/images/media/template_images/2024/144352/touhou-tierlist-but-im-using-friendsea-art-144352/117.png",
 "hata":"https://tiermaker.com/images/media/template_images/2024/144352/touhou-tierlist-but-im-using-friendsea-art-144352/118.png",
 "sumireko":"https://tiermaker.com/images/media/template_images/2024/144352/touhou-tierlist-but-im-using-friendsea-art-144352/119.png",
-"jo'on":"https://tiermaker.com/images/media/template_images/2024/144352/touhou-tierlist-but-im-using-friendsea-art-144352/120.png",
-"shion":"https://tiermaker.com/images/media/template_images/2024/144352/touhou-tierlist-but-im-using-friendsea-art-144352/121.png",
+"shion":"https://tiermaker.com/images/media/template_images/2024/144352/touhou-tierlist-but-im-using-friendsea-art-144352/120.png",
+"jo'on":"https://tiermaker.com/images/media/template_images/2024/144352/touhou-tierlist-but-im-using-friendsea-art-144352/121.png",
 "yuuma":"https://tiermaker.com/images/media/template_images/2024/144352/touhou-tierlist-but-im-using-friendsea-art-144352/122.png",
 "renko":"https://tiermaker.com/images/media/template_images/2024/144352/touhou-tierlist-but-im-using-friendsea-art-144352/123.png",
 "maribel":"https://tiermaker.com/images/media/template_images/2024/144352/touhou-tierlist-but-im-using-friendsea-art-144352/124.png",
@@ -294,14 +294,13 @@ for e in edge_data:
     xs += randrange(-rand,rand)
     xd += randrange(-rand,rand)
 
-    net.add_node(src, src, title=src, image=si, shape="image", brokenImage="https://en.touhouwiki.net/images/9/90/Th_135_yinyang.png", group = Characters[src].Game, x = xs, y = ys)
-    net.add_node(dst, dst, title=dst, image=di, shape="image", brokenImage="https://en.touhouwiki.net/images/9/90/Th_135_yinyang.png", group = Characters[dst].Game, x = xd, y = yd)
-    net.add_edge(src, dst, value=w)
+    net.add_node(src, src, title=src, image=si, shape="image", brokenImage="./Th_135_yinyang.png", group = Characters[src].Game, x = xs, y = ys)
+    net.add_node(dst, dst, title=dst, image=di, shape="image", brokenImage="./Th_135_yinyang.png", group = Characters[dst].Game, x = xd, y = yd)
+    net.add_edge(src, dst, value=w, title=f"{src}/{dst} : {w}")
 
 neighbor_map = net.get_adj_list()
 
 for node in net.nodes:
-    node['title'] += ' Neighbors:<br>' + '<br>'.join(neighbor_map[node['id']])
     node['value'] = len(neighbor_map[node['id']])
 
 net.options.manipulation = True
