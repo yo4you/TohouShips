@@ -235,27 +235,26 @@ icons = {
 "kosuzu":"https://tiermaker.com/images/media/template_images/2024/144352/touhou-tierlist-but-im-using-friendsea-art-144352/134.png",
 "miyoi":"https://tiermaker.com/images/media/template_images/2024/144352/touhou-tierlist-but-im-using-friendsea-art-144352/135.png",
 "mizuchi":"https://tiermaker.com/images/media/template_images/2024/144352/touhou-tierlist-but-im-using-friendsea-art-144352/136.png",
-"iwasaka":"https://en.touhouwiki.net/images/0/0a/Iwasaka.png",
-"yuki":"https://en.touhouwiki.net/images/5/53/Th05yuki01.png",
-"mai":"https://en.touhouwiki.net/images/2/2e/Th05mai01.png",
+"iwasaka":"./Iwasaka.png",
+"yuki":"./Th05yuki01.png",
+"mai":"./Th05mai01.png",
 "chang'e":"https://upload.wikimedia.org/wikipedia/commons/9/98/The_dragon%2C_image%2C_and_demon%3B_or%2C_The_three_religions_of_China-_Confucianism%2C_Buddhism%2C_and_Taoism%2C_giving_an_account_of_the_mythology%2C_idolatry%2C_and_demonolatry_of_the_Chinese_%281887%29_%2814760951946%29.jpg",
-"rikako":"https://en.touhouwiki.net/images/7/70/Th03Rikako.png",
-"yumemi":"https://en.touhouwiki.net/images/8/8a/Th03Yumemi.png",
-"satsuki":"https://en.touhouwiki.net/images/9/9b/Th06Rin.jpg",
-"ellen":"https://en.touhouwiki.net/images/5/5a/Th03Ellen.png",
-"rinnosuke":"https://en.touhouwiki.net/wiki/File:EotWRinnosuke.jpg",
-"yumeko":"https://en.touhouwiki.net/images/4/4a/Th05yumeko.png",
-"meira":"https://en.touhouwiki.net/images/b/bc/Th02meira.png",
-"shinki":"https://en.touhouwiki.net/images/1/12/Th05shinki.png",
-"ellen":"https://en.touhouwiki.net/images/9/9b/Th06Rin.jpg",
-"kotohime":"https://en.touhouwiki.net/images/2/25/Th03Kotohime.png",
-"ellen":"https://en.touhouwiki.net/images/9/9b/Th06Rin.jpg",
-"mima":"https://en.touhouwiki.net/images/7/7e/Th05mima2.png",
-"elly":"https://en.touhouwiki.net/images/2/28/Th04Elly.png",
+"rikako":"./Th03Rikako.png",
+"yumemi":"./Th03Yumemi.png",
+"satsuki":"./Th06Rin.jpg",
+"ellen":"./Th03Ellen.png",
+"rinnosuke":"./EotWRinnosuke.jpg",
+"yumeko":"./Th05yumeko.png",
+"meira":"./Th02meira.png",
+"shinki":"./Th05shinki.png",
+"kotohime":"./Th03Kotohime.png",
+"ellen":"./Th06Rin.jpg",
+"mima":"./Th05mima2.png",
+"elly":"./Th04Elly.png",
 }
 
 
-net = Network(height='1000px', width='100%', bgcolor='#222222', font_color='white')
+net = Network(height='2000px', width='100%', bgcolor='#222222', font_color='white')
 
 # set the physics layout of the network
 #net.options.physics.enabled = False
@@ -309,7 +308,7 @@ net.options.manipulation = True
 net.inherit_edge_colors('both')
 net.show_buttons()
 
-net.show('ships.html', notebook=False)
+net.show('index.html', notebook=False)
 
 
 plt.show()
