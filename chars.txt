@@ -192,3 +192,10 @@ Suiki, -1
 Takatou Tobiko, -1
 Yatagarasu, -1
 Zombie Fairy, -1
+Jo'on, -1
+Ariya, 20
+Yuiman, 20
+Nareko, 20
+Nina, 20
+Chimi, 20
+Ubame, 20
